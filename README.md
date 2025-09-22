@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithya</h1>
-<h3 align="center">I am a Final year Computer Science student. I like to build stuff that solve problems and earn money</h3>
+<h3 align="center">I am a Final year Computer Science student at BITS Pilani, Hyderabad campus. I like to build stuff that solves problems or even just for fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyakothamasu&label=Profile%20views&color=0e75b6&style=flat" alt="adithyakothamasu" /> </p>
 
