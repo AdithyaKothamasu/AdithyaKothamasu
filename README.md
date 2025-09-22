@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sai-adithya-kothamasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-adithya-kothamasu" height="30" width="40" /></a>
 <a href="https://x.com/puzzledAdi" target="_blank" rel="noopener noreferrer">
-  <img align="center" class="fa-brands fa-x-twitter" height="30" width="40" ></img>
+  <img align="center" class="fa-brands fa-x-twitter" height="30" width="40" />
 </a>
 </p>
 
