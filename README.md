@@ -12,5 +12,3 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="sai-adithya-kothamasu" height="30" width="40" />
 </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyakothamasu&show_icons=true&locale=en" alt="adithyakothamasu" /></p>
