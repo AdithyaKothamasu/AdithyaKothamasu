@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyakothamasu&label=Profile%20views&color=0e75b6&style=flat" alt="adithyakothamasu" /> </p>
 
-- 🔭 I’m currently working on **My startup ZINIEA**
-
 - 📫 How to reach me **adithya261004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
